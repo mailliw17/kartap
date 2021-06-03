@@ -20,7 +20,7 @@
 
                     <div class="about-details-cap mb-50">
                         <h4>Our History</h4>
-                        <p style="font-size: 18px !important;">For the first time a career service was established under the name Perduniawian Kerja. This career service is a Non-Government Organization which is engaged in career development and training. Founder of Perduniawian Kerja, which is now changing its name to Kartap.Id, is worried about starting a career and is concerned about new graduates looking for work. It started from opening career classes on HR and until now continues to grow to provide career information and servicesCareer Buddies : Providing reliable and relevant career consulting facilities related to career development.
+                        <p style="font-size: 18px !important;">For the first time a career service was established under the name Perduniawian Kerja. This career service is a Non-Government Organization which is engaged in career development and training. Founder of Perduniawian Kerja, which is now changing its name to Kartap.Id, is worried about starting a career and is concerned about new graduates looking for work. It started from opening career classes on HR and until now continues to grow to provide career information and services.
                         </p>
                     </div>
 
