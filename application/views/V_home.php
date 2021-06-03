@@ -63,7 +63,7 @@
                 <div class="col-xl-4 col-lg-4 col-md-6 col-sm-">
                     <div class="single-team mb-30">
                         <div class="team-img">
-                            <img src="<?= base_url() ?>assets/poster/poster_3.png" alt="" class="img-fluid">
+                            <img src="<?= base_url() ?>assets/poster/poster_3.JPG" alt="" class="img-fluid">
                         </div>
                         <div class="team-caption">
                             <h3><a href="#">National Webinar Career</a></h3>
@@ -122,7 +122,7 @@
             <div class="row">
                 <div class="col-lg-4 col-md-6 col-sm-6">
                     <div class="single-cat text-center mb-50">
-                        <div class="cat-icon">
+                        <div class="cat-icon" style="padding-top:55px !important;">
                             <!-- <span class="flaticon-result"></span> -->
                             <img src="<?= base_url() ?>assets/ofc_partner/girlskode.png" alt="" class="img-fluid">
                         </div>

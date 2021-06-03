@@ -3906,6 +3906,7 @@ hero-btn {
 .categories-area .single-cat {
   border: 9px solid transparent;
   padding: 30px 22px;
+  height: 85%;
   -webkit-transition: all 0.4s ease-out 0s;
   -moz-transition: all 0.4s ease-out 0s;
   -ms-transition: all 0.4s ease-out 0s;
