@@ -304,29 +304,6 @@
             <div>
                 <div class="row" style="border-top: 1px solid black !important; padding: 5px !important;">
                     <div class="col-md-6">
-                        <h3 style="font-weight: bold !important;">Creative Learning Lead</h3>
-                    </div>
-                    <div class="col-md-6">
-                        <input type="submit" value="Details" data-toggle="collapse" data-target="#11" style="float:right !important;"/>
-                    </div>
-                </div>
-                <div id="11" class="collapse">
-                    <h5 style="font-size: 18px !important font-weight: bold !important;">Job Description:</h5>
-                    <p style="padding-left:10px !important;">
-                        - Melaksanakan meeting rutin untuk melakukan perencanaan dan evaluasi kegiatan internal <br />
-                        - Melaksanakan2
-                    </p>
-
-                    <h5 style="font-size: 18px !important font-weight: bold !important padding-top: 20px !important;">Requirement:</h5>
-                    <p style="padding-left:10px !important;">
-                        - Melaksanakan meeting rutin untuk melakukan perencanaan dan evaluasi kegiatan internal <br />
-                    </p>
-                </div>
-            </div>
-
-            <div>
-                <div class="row" style="border-top: 1px solid black !important; padding: 5px !important;">
-                    <div class="col-md-6">
                         <h3 style="font-weight: bold !important;">Social Media Officer</h3>
                     </div>
                     <div class="col-md-6">
