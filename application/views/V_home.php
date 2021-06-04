@@ -63,7 +63,7 @@
                 <div class="col-xl-4 col-lg-4 col-md-6 col-sm-">
                     <div class="single-team mb-30">
                         <div class="team-img">
-                            <img src="<?= base_url() ?>assets/poster/poster_3.JPG" alt="" class="img-fluid">
+                            <img src="<?= base_url() ?>assets/poster/poster_3.jpg" alt="" class="img-fluid">
                         </div>
                         <div class="team-caption">
                             <h3><a href="#">National Webinar Career</a></h3>
