@@ -25,38 +25,12 @@
                     <!-- Section Tittle -->
                     <div class="section-tittle mb-70">
                         <h2>Open position for:</h2>
+                        <p style="font-size: 20px !important; color: #FF0000 !important; padding-top: 35px !important;">Note: Full work from home (wfh)</p>
                     </div>
                 </div>
             </div>
             <div>
                 <div class="row" style="padding: 5px !important;">
-                    <div class="col-md-6">
-                        <h3 style="font-weight: bold !important;">Creative Learning Lead</h3>
-                    </div>
-                    <div class="col-md-6">
-                        <input type="submit" value="Details" data-toggle="collapse" data-target="#1" style="float:right !important;"/>
-                    </div>
-                </div>
-                <div id="1" class="collapse">
-                    <h5 style="font-size: 18px !important font-weight: bold !important;">Job Description:</h5>
-                    <p style="padding-left:10px !important;">
-                        - Melaksanakan meeting rutin untuk melakukan perencanaan dan evaluasi kegiatan internal <br />
-                        - Memonitoring pelaksanaan project – project di Creative Learning Departement <br />
-                        - Penanggung jawab dalam pembuatan silabus dan timeline project Creative Learning
-                    </p>
-
-
-                    <h5 style="font-size: 18px !important font-weight: bold !important padding-top: 20px !important;">Requirement:</h5>
-                    <p style="padding-left:10px !important;">
-                        - Memiliki pengalaman dalam menghandle organisasi <br />
-                        - Pernah aktif menempati posisi sebagai coordinator bidang/departemen <br />
-                        - Memiliki pengalaman di bidang content creator menjadi nilai plus 
-                    </p>
-                </div> 
-            </div>
-
-            <div>
-                <div class="row" style="border-top: 1px solid black !important; padding: 5px !important;">
                     <div class="col-md-6">
                         <h3 style="font-weight: bold !important;">Creative Learning Officer</h3>
                     </div>
@@ -136,35 +110,6 @@
                         - Terbuka untuk semua latar belakang pendidikan <br />
                         - Senang bekerja dalam tim dan tertarik untuk belajar hal-hal baru <br />
                         - Memiliki kemampuan komunikasi / public speaking yang baik, serta kreatif dan inovatif
-                    </p>
-                </div>
-            </div>
-
-            <div>
-                <div class="row" style="border-top: 1px solid black !important; padding: 5px !important;">
-                    <div class="col-md-6">
-                        <h3 style="font-weight: bold !important;">Learning Partner Specialist</h3>
-                    </div>
-                    <div class="col-md-6">
-                        <input type="submit" value="Details" data-toggle="collapse" data-target="#5" style="float:right !important;"/>
-                    </div>
-                </div>
-                <div id="5" class="collapse">
-                    <h5 style="font-size: 18px !important font-weight: bold !important;">Job Description:</h5>
-                    <p style="padding-left:10px !important;">
-                        - Merancang konsep besar keseluruhan project kerjasama <br />
-                        - Bertanggung jawab terhadap keberjalanan jasa konsultasi <br />
-                        - Bertanggung jawab sebagai project leader non-event
-                    </p>
-
-
-                    <h5 style="font-size: 18px !important font-weight: bold !important padding-top: 20px !important;">Requirement</h5>
-                    <p style="padding-left:10px !important;">
-                        - Memiliki pengalaman dalam project management/kepanitiaan <br />
-                        - Pernah menjadi konseptor dalam program kerja/kegiatan atau berpengalaman dibidang training & development <br />
-                        - Terbuka untuk semua latar belakang pendidikan <br />
-                        - Senang bekerja dalam tim dan tertarik untuk belajar hal-hal baru <br />
-                        - Memiliki kemampuan komunikasi / public speaking yang baik, serta kreatif dan inovatif <br />
                     </p>
                 </div>
             </div>
